@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+h1 {
+    font-size: 4rem;
+    font-weight: 1000;
+    height: fit-content;
+}
+.presentation {
+    display: flex;
+    overflow: hidden;
+}
+.aboutme {
+    text-align: left;
+}
+.empty {
+    width: 1.5rem;
+}
+.back {
+    align-self: self-end;
+}
+a {
+    color: bisque;
+    text-decoration: none;
+}
