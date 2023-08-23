@@ -3,6 +3,10 @@
     padding: 0;
     box-sizing: border-box;
   }
+  main {
+	background: #485564;
+	color: #FAFAFA;
+}
 h1 {
     font-size: 4rem;
     font-weight: 1000;
